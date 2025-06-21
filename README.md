@@ -37,7 +37,8 @@ A secure password generator that allows the user to generate strong random passw
 
 - **Name:** Vishnu Kumar Singh  
 - **GitHub:** [github.com/vishnu9615kumar](https://github.com/vishnu9615kumar)  
-- **LinkedIn:** [linkedin.com/in/vishnu](https://www.linkedin.com/in/vishnu)
+- **LinkedIn:** [linkedin.com/in/vishnu-kumar-singh-a95306294](https://www.linkedin.com/in/vishnu-kumar-singh-a95306294)
+
 
 ---
 
